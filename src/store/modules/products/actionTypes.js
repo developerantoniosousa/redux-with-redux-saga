@@ -1,0 +1,5 @@
+export default {
+  LOAD_LIST_REQUEST: '@products/LOAD_LIST_REQUEST',
+  LOAD_LIST_SUCCESS: '@products/LOAD_LIST_SUCCESS',
+  LOAD_LIST_FAILURE: '@products/LOAD_LIST_FAILURE',
+};
